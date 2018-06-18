@@ -15,7 +15,7 @@ session_start();
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>HIGH SCHOOL</title>
+    <title>HIGH-SCHOOL MUSIC</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
